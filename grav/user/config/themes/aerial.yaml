@@ -1,0 +1,13 @@
+enabled: true
+links:
+  twitter: '#'
+  instagram: '#'
+  facebook: '#'
+  dribbble: '#'
+  pinterest: '#'
+streams:
+  schemes:
+    theme:
+      type: ReadOnlyStream
+      paths:
+        - user/themes/aerial

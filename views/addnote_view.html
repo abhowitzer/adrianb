@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Add Joke</title>
+		<style type="text/css">
+			textarea {
+			display: block;
+			width: 100%;
+			}
+		</style>
+	</head>
+	<body>
+		<form action="../functions/process_note.php" method="POST">
+			<div class="form-group">
+				<input type="hidden" name="process_type" value="add">
+				<label for="title">
+					<strong>Type your title here</strong>
+				</label>
+				<textarea id="title" name="title" rows="1" cols="20">
+				</textarea>
+				<label for="body">
+					<strong>Type your note here</strong>
+				</label>
+				<textarea id="body" name="body" rows="15" cols="40">
+				</textarea>
+			</div>
+			<div>
+				<input type="submit" class="btn btn-primary" value="Add note">
+			</div>
+		</form>
+	</body>
+</html>

@@ -1,0 +1,109 @@
+List of documentaries found on 2016-04-24.
+------------------------------------------
+22G	/cygdrive/d/Videos/Documentaires
+/cygdrive/d/Videos/Documentaires
+├── Artisanship
+│   ├── multiply-Jiro Dreams of Sushi-jp.avi
+│   ├── multiply-Jiro Dreams of Sushi-jp.srt
+│   └── Thumbs.db
+├── Cars & Racing
+│   ├── BBC.Grand.Prix.The.Killer.Years.576p.HDTV.x264.AAC.MVGroup.Forum.mkv
+│   ├── Madness On Wheels - Rallying's Craziest Years.avi
+│   ├── Madness.in.the.Desert.Paris.to.Dakar.PDTVx264.JIVE.mp4
+│   ├── Madness.in.the.Desert.Paris.to.Dakar.PDTVx264.JIVE.srt
+│   ├── madness-on-wheels-rallyings-craziest-years.srt
+│   ├── Senna.2010.DVDRIP.XVID-SMOKEY.(UsaBit.com)
+│   │   ├── smokey-senna.avi
+│   │   └── smokey-senna.srt
+│   └── Thumbs.db
+├── Crime
+│   ├── Cocaine Cowboys 2006 DVDrip XviD MP3-frapper(FLAG-SU).mkv
+│   ├── GAYS IN PRISON _ Prison Life ( Prison Documentary ) - xxx ga.flv
+│   ├── Oxycontin Express.mp4
+│   ├── Russia's Deadliest Drug (NSFW) -- Krokodil.mp4
+│   ├── Square.Grouper.2011.DVDRip.Xvid {1337x}-Noir.avi
+│   ├── Thumbs.db
+│   └── World's Scariest Drug (Documentary Exclusive).mp4
+├── Culture and Art
+│   ├── Bill Cunningham - New York
+│   │   ├── iguana-bcny.xvid.avi
+│   │   ├── iguana-bcny.xvid.nfo
+│   │   ├── READ this before playing the Movie.txt
+│   │   ├── Subs
+│   │   │   └── iguana-bcny.xvid.idx
+│   │   ├── Thumbs.db
+│   │   └── www.Torrenting.com.txt
+│   ├── Bomb It
+│   │   ├── Bomb.It.2008.DvDRiP.h.264.AAC-SCUM.m4v
+│   │   └── Thumbs.db
+│   ├── Exit Through the Gift Shop
+│   │   ├── ~uTorrentPartFile_2BEC21D3.dat
+│   │   ├── Exit Through The Gift Shop 2010 [DVDRip.XviD-miguel] [ENG].avi
+│   │   └── Thumbs.db
+│   ├── GROUPIES - Full 1970 Documentary Featuring Terry Reid.mp4
+│   ├── New York '77 - The Coolest Year in Hell
+│   │   ├── New York '77 - The Coolest Year in Hell.mp4
+│   │   └── Thumbs.db
+│   ├── Real Scenes- Berlin -- Techno .mp4
+│   ├── Rivers and Tides -- Andy Goldsworthy Documentary 2003
+│   │   ├── Rivers and Tides -- Andy Goldsworthy Documentary 2003.avi
+│   │   ├── Rivers and Tides -- Andy Goldsworthy Documentary 2003.txt
+│   │   └── Thumbs.db
+│   ├── Seduced and Abandoned (2013) [1080p]
+│   │   ├── Seduced.and.Abandoned.2013.1080p.BluRay.x264.YIFY.mp4
+│   │   ├── Thumbs.db
+│   │   └── WWW.YTS.RE.jpg
+│   ├── Steve-O - Demise and Rise - FULL.mp4
+│   ├── Sub Berlin - The Story of Tresor (Germany, 2009) - English version.mp4
+│   └── Thumbs.db
+├── Gaming and Technology
+│   ├── A Visit to iD Software.mp4
+│   ├── Free to Play- The Movie (International).mp4
+│   ├── Free to Play- The Movie (International).srt
+│   ├── id Software Part 1- Scrolling Around.mp4
+│   ├── id Software Part 2- The Third Dimension.mp4
+│   ├── id Software Part 3- The Game That Stopped The World.mp4
+│   ├── LGR - Jazz Jackrabbit History and Review.mp4
+│   ├── Making of UT3 - Documentary - Epic Games - Behind the Scenes of Unreal Tournament 3.mp4
+│   ├── s4a-indie.game.the.movie.webrip.xvid.avi
+│   ├── Steve Jobs internal demo of NeXTSTEP 3 (1992).mp4
+│   ├── The Internet As It Was In 1996.mp4
+│   ├── The King of Kong.avi
+│   ├── The Story of Computer Games.mp4
+│   ├── The.Pirate.Bay.Away.From.Keyboard.2013.720p.BRrip.x264.GAZ.YIFY.mp4
+│   └── Thumbs.db
+├── History
+│   ├── REAL SPIES -  FBI-CIA (documentary).mp4
+│   ├── The Crimean War (Full Documentary).mp4
+│   └── Thumbs.db
+├── Killing Season
+│   ├── killingseason_01_01_576p.mp4
+│   ├── killingseason_01_02_576p.mp4
+│   ├── killingseason_ep03_final_cut_576p.mp4
+│   └── Thumbs.db
+├── Science
+│   ├── Thumbs.db
+│   ├── Waarom is het Nederlands niet uitgegroeid tot een wereldtaal (4-5).mp4
+│   └── Waarom kunnen medicijnen in spiegelbeeld levensgevaarlijk zijn.mp4
+├── Society
+│   ├── 2013-11-14 - Sletvrees.mp4
+│   ├── knuckle-taste.avi
+│   ├── LiveLeak-dot-com-f93779a23224-millionaire_boy_racers_of_london_in_hd.mp4.h264_720p.mp4
+│   ├── No Sex Please, We're Japanese (BBC Documentary).mp4
+│   ├── On how I approach strangers in the street _ Humans of New Yo.flv
+│   ├── Sidewalk_1.mp4
+│   ├── Sidewalk_2.mp4
+│   ├── Sidewalk_3.mp4
+│   ├── Sidewalk_4.mp4
+│   ├── Sidewalk_5.mp4
+│   ├── Sidewalk_6.mp4
+│   ├── Suicide Forest in Japan.mp4
+│   ├── Surviving Alone in Alaska.mp4
+│   ├── The Giants of Iceland.mp4
+│   ├── This.Film.Has.Not.Yet.Been.Rated.2006.DvdRip.eng.avi
+│   ├── Thumbs.db
+│   ├── UsaBit.com_the.parking.lot.movie.2010.dvdrip.xvid-wide.avi
+│   └── Vruca kava - Hot Coffee.mp4
+└── Thumbs.db
+
+17 directories, 86 files

@@ -1,0 +1,33 @@
+<div class="bodytext blogpost">
+	<div class="bloghead">
+		<h2>03|</h2>
+		<h1>Slight tweaking, with a dessert of Gwent</h1>
+		<time>[12/04/17 ~21:00]</time>
+		<hr />
+	</div>
+	<div class="blogcontent">
+		<p>
+			Vandaag niet meer uren achter elkaar prullen, maar ook beetje ontspannen (GWENT).
+		</p>
+		<p>
+			Het is maf hoezeer HTML anders is dan ik had verwacht. Ik dacht dat dit veel meer "af" was, maar dat is het niet. Het is erg hard prullen en zoeken. Ik begrijp waarom er zoveel frameworks zijn. Het basic pakket dat HTML en CSS biedt is, hoewel erg rijk, ook heel arm. Ik zoek voor een oplossing om externe html in te laden, zodanig dat deze posts bijvoorbeeld niet los in het "hoofd"-html-bestand staan. En daar heb je dan javascript voor nodig. Een import/include-functie die simpelweg &lt;div include="blabla.html"&gt; of iets dergelijks volgt, bestaat niet. Maar wat googelen bracht me op <a href="https://github.com/LexmarkWeb/csi.js">csi.js</a>, dat dan wel weer exact doet wat ik zocht:&esmp;<code>&lt;div data-include="include-me.html"&gt;/div></code>.
+		</p>
+		<p>
+			Zo zijn er nog dingen dat ik denk <em>dáárom is dat allemaal zo'n gedoe</em>. Zoals deze tekst die ik schrijf. Het is me erg vreemd om tegelijkertijd content als markup te schrijven. Schrijven dien je te doen zonder gedoe. Dat italische tekst geen ctrl-I weg is &mdash; dat is gewoon raar. Dus dan denk ik aan een soort tekstbewerker die mijn tekst omzet naar het stramien van de posts. Met een header (titel, tijd, ..), content (dit) en markup.
+		</p>
+		<div class="screenshot">
+			<a href="../images/header.png"><img class="screenshot" alt="Header" src="../images/header.png" /></a>
+		</div>
+		<p>
+			Maar dan ben je een heus Word-Edit-achtig ding aan het schrijven. Of een halve CMS aan het uitwerken. Dat is niet de bedoeling. Maarrrrr, hier geef ik niet af. Schrijven is schrijven. Mogelijks een manier om via markdown de markup te doen, en iets dat de volgorde van de regels gebruikt om deze op de juiste plaats te zetten. Met bash en regex kan je wel zoiets fixen me dunkt. Regel 1 is nummering, 2 is titel, 3 is tijd en van vierde regel tot einde is het content. En dat het vak content dan wordt ingevuld door -vanuit markdown geëxporteerde- html of iets dergelijks. Dan kan ik dat zelfs laten automatiseren met <a href="http://manpages.ubuntu.com/manpages/zesty/en/man1/inoticoming.1.html">inoticoming</a> of iets dergelijks zodra het via ftp is overgebracht.
+		<p>
+			Leuk werk voor de boeg. Ook nog wel wat opkuiswerk met de huidige basis-html (dat nog niet echt helemaal goed is &mdash; ik gebruik zowel class voor de div rond, als de img-tag erin, omdat ik in css zowel img-eigen dingen toewijs als dingen voor de div).
+		</p>
+		<p>
+			Maar dus. GWENT (!!). Hét spel-in-spel. Verschrikkelijk leuk en &mdash; zolang je niet loopt te hoeren met <em>spies</em> &mdash; best uitdagend. <b>Eindelijk</b> een uitnodiging voor gekregen. Ben erg benieuwd.
+		</p>
+		<div class="screenshot">
+			<a href="../images/gwentbeta.png"><img class="screenshot" alt="Gwent Beta Invite" src="../images/gwentbeta.png" /></a>
+		</div>
+	</div>    
+</div>

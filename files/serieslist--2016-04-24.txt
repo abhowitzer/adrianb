@@ -1,0 +1,230 @@
+List of folders of series found on 2016-04-24.
+----------------------------------------------
+415G	/cygdrive/d/Videos/Series
+/cygdrive/d/Videos/Series
+├── 2 Broke Girls
+│   └── Season 1
+├── Archer
+│   ├── Season 1
+│   ├── Season 2
+│   ├── Season 3
+│   ├── Season 4
+│   └── Season 5
+│       └── Archer.2009.S06E04.HDTV.x264-KILLERS[ettv]
+├── Arrested Development
+│   ├── Season 1
+│   │   └── Extras - Season 1
+│   ├── Season 2
+│   │   └── Extras - Season 2
+│   ├── Season 3
+│   └── Season 4
+├── Avatar - The Last Airbender
+│   ├── Book 1 [Water]
+│   ├── Book 2 [Earth]
+│   ├── Book 3 [Fire]
+│   ├── Cover
+│   └── thanks
+├── Battlestar Galactica
+│   ├── Season 1
+│   ├── Season 2
+│   ├── Season 3
+│   └── Season 4
+├── Betas
+├── Boardwalk Empire
+│   ├── Season 1
+│   └── Season 2
+├── Bob's Burgers
+│   ├── Season 1
+│   ├── Season 2
+│   ├── Season 3
+│   ├── Season 4
+│   └── Season 5
+├── Breaking Bad
+│   ├── Season 1
+│   ├── Season 2
+│   └── Season 3
+├── Brooklyn Nine-Nine
+│   ├── Brooklyn.Nine-Nine.S02.Season.2.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed
+│   └── Season 3
+├── Cambridge Spies
+├── Clone Wars
+├── Community
+│   ├── Season 1
+│   ├── Season 2
+│   ├── Season 3
+│   ├── Season 4
+│   └── Season 5
+├── Conan
+├── Cordon
+├── Downton Abbey
+│   ├── Season 1
+│   ├── Season 2
+│   ├── Season 3
+│   ├── Season 4
+│   └── Season 5
+├── Entourage
+│   ├── Season 1
+│   ├── Season 2
+│   ├── Season 3
+│   ├── Season 4
+│   ├── Season 5
+│   ├── Season 6
+│   ├── Season 7
+│   └── Season 8
+├── Freaks and Geeks
+│   └── Season 1
+├── Game of Thrones
+│   ├── Season 1
+│   ├── Season 2
+│   ├── Season 3
+│   ├── Season 4
+│   └── Season 5
+├── Geordie Shore
+├── Girls
+│   ├── Season 1
+│   ├── Season 2
+│   └── Season 3
+├── Graham Norton Show
+├── Halt and Catch Fire
+│   └── Season 2
+├── Hannibal
+│   ├── Season 1
+│   ├── Season 2
+│   └── Season 3
+├── Happy Endings
+│   ├── Season 1
+│   ├── Season 2
+│   └── Season 3
+├── House of Cards
+│   ├── Season 1
+│   └── Season 2
+├── How I Met Your Mother
+│   ├── Season 8
+│   └── Season 9
+├── Hung
+│   ├── Season 1
+│   ├── Season 2
+│   └── Season 3
+├── Is 't Nog Ver
+├── IT Crowd
+│   ├── Season 1
+│   ├── Season 2
+│   ├── Season 3
+│   └── Season 4
+├── Jackass
+│   ├── Season 1
+│   ├── Season 2
+│   └── Season 3
+├── Louie
+│   ├── Season 1
+│   ├── Season 2
+│   ├── Season 3
+│   └── Season 4
+├── Mad Men
+│   ├── Season 1
+│   ├── Season 2
+│   ├── Season 3
+│   ├── Season 4
+│   ├── Season 5
+│   ├── Season 6
+│   └── Season 7
+├── Marco
+├── Masters of Sex
+│   ├── Season 1
+│   └── Season 2
+├── Mob City
+│   └── Season 1
+├── Mr Robot
+│   └── Mr.Robot.S01E10.HDTV.x264-KILLERS[ettv]
+├── New Girl
+│   ├── Season 1
+│   ├── Season 2
+│   ├── Season 3
+│   └── Season 4
+│       └── New.Girl.S04E14.HDTV.x264-ASAP[ettv]
+├── Orange Is The New Black
+│   ├── Season 1
+│   │   ├── Sample
+│   │   └── Subtitles
+│   │       ├── English
+│   │       └── French
+│   └── Season 2
+├── Peaky Blinders
+│   ├── Season 1
+│   └── Season 2
+├── Rick and Morty
+│   └── Season 2
+│       ├── Rick.and.Morty.S02E01.HDTV.x264-BATV[ettv]
+│       ├── Rick.and.Morty.S02E02.HDTV.x264-BATV[rarbg]
+│       ├── Rick.and.Morty.S02E03.HDTV.x264-BATV[rarbg]
+│       ├── Rick.and.Morty.S02E04.HDTV.x264-BATV[rarbg]
+│       ├── Rick.and.Morty.S02E05.HDTV.x264-BATV[rarbg]
+│       ├── Rick.and.Morty.S02E06.HDTV.x264-BATV[rarbg]
+│       ├── Rick.and.Morty.S02E07.HDTV.x264-W4F[rarbg]
+│       │   └── SAMPLE
+│       ├── Rick.and.Morty.S02E08.HDTV.x264-BATV[rarbg]
+│       ├── Rick.and.Morty.S02E09.HDTV.x264-BATV[rarbg]
+│       └── Rick.and.Morty.S02E10.HDTV.x264-BATV[ettv]
+├── Rome
+│   ├── Season 1
+│   └── Season 2
+├── Scandal
+│   ├── Season 1
+│   ├── Season 2
+│   └── Season 3
+├── Sherlock
+│   ├── Season 1
+│   └── Season 2
+├── Sons of Anarchy
+│   ├── Season 4
+│   └── Season 5
+├── South Park
+│   ├── Season 16
+│   └── Season 17
+├── Spaced
+├── Suits
+│   ├── Season 1
+│   ├── Season 2
+│   ├── Season 3
+│   ├── Season 4
+│   └── Suits S04E10 HDTV x264-KILLERS[ettv]
+├── The Borgias
+│   └── Season 1
+├── The Newsroom
+│   ├── Season 1
+│   ├── Season 2
+│   └── Season 3
+├── The Office
+│   ├── Christmas Special
+│   ├── Extras
+│   ├── Season 1
+│   └── Season 2
+├── The Pillars of the Earth
+├── The Sopranos
+│   ├── Season 1
+│   ├── Season 2
+│   ├── Season 3
+│   ├── Season 4
+│   ├── Season 5
+│   └── Season 6
+├── The Thick of It
+│   ├── Season 1
+│   ├── Season 2
+│   ├── Season 3
+│   └── Season 4
+├── The West Wing
+│   ├── Season 1
+│   ├── Season 2
+│   └── Season 3
+├── Upstairs Downstairs
+├── Various (single) episodes
+├── Vikings
+│   ├── Season 1
+│   └── Season 2
+├── White Collar
+│   └── Season 1
+└── Workaholics
+    ├── Season 1
+    └── Season 2
+
+224 directories

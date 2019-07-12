@@ -1,0 +1,66 @@
+<div class="bodytext blogpost">
+	<div class="bloghead">
+		<h2>05|</h2>
+		<h1>Mucking about with ... (what)</h1>
+		<time>[14/04/2017 ~23:30]</time>
+		<hr />
+	</div>
+	<div class="blogcontent">
+		<p>
+			Weekend. Super. Verlengd weekend. Geweldig. Tijd om wat te prutsen, onnozel te doen en te kateren.
+		</p>
+		<p>
+			Andere dingen zijn reeds gepland, maar wat er te doen is op vlak van prutsen ontgaat me momenteel. Niet heel erg <em>out of the box</em>-mogelijkheden momenteel.
+		</p>
+		<p>
+			Ik kijk voornamelijk naar hoe ik best het markdown-naar-html-gegeven kan doen. Er zijn verschillende manieren. Oftewel gebruik ik hét Perl Markdown script om dergelijke tekst om te zetten naar html. Dan is dit een "offline" gebeuren waarbij ik het scriptje in gang zet om de, enkel in Markdown zijnde, tekst te converteren naar HTML om vervolgens dit te herintegreren in een kopie van het originele bestand (met header) tot een nieuw bestand met de html+header. Maar dat lijkt me wat rommelig.
+		</p>
+		<p>
+			Een andere manier is om de tekst Markdown "online" te converteren naar HTML op het moment dat een gebruiker de specifieke webpagina inlaadt. Maar dan moet ik Perl-scripts zien werkend te krijgen op web. Of eerder PHP of JavaScript gaan gebruiken (Markdown heeft 101 converters in 101 talen). Maar dan moet ik die eerst gaan leren (kennen), en dat wil ik nog niet. Eerst wat meer HTML erin, en wat meer wennen aan het hele 'web is niet enkel display meer'-gegeven. En dat doe ik liefst met shizzle dat ik al ken.
+		</p>
+		<p>
+			Op non-tech vlak probeer ik de laatste tijd wat in <a href="http://store.steampowered.com/app/281990/">Stellaris</a> te geraken. Maar, ondanks dat het een Paradox-titel is, geraak ik er niet in. Te weinig politiek en verovering, en te veel exploratie. Dat was ook de bedoeling, en voor liefhebbers van 4X waarschijnlijk een dikke aanrader, maar voor mij is het een no-no.
+		</p>
+		<p>
+			Vreemd toch. Als ik kijk naar de laatste twee jaar van gamen heb ik precies meer teleurstellingen gezien dan in de vijftien jaar daarvoor, op vlak van gaming. Zoveel dingen zijn zo... vlak. <em>Wide as the ocean, deep as a puddle.</em> Met stip Fallout 4. Godverdomme wat was dat triest.
+		</p>
+		<p>
+			Waarschijnlijk de schuld van Witcher 3 om mijn voorkeur te verneuken. Zo eventjes de standaard los naar de maan knallen.
+		</p>
+	</div>
+	<div class="bloghead">
+		<h2>_b|</h2>
+		<h1>Markdown</h1>
+		<time>[15/04/2017 ~01:00]</time>
+        <hr />
+	</div>
+	<div class="blogcontent">
+		<p>
+			Markdown valt te combineren met HTML, <strong>maar</strong> converteert geen Markdown die ín een HTML-tag zit. Nu ik kan dat nu wel uit deze bestanden filteren met de standaard linux-tools (hoewel dat toch wel wat gekloot vergt), maar dat is nog altijd geen mooie oplossing. Ik wil van begin tot eind Markdown kunnen schrijven feitelijk. En op zich gaat dat wel want de headers krijgen hun css van de '.bloghead h1'/'~h2'-selector, dus als Markdown van 
+			<p>
+                <code>
+                    ##05|
+                    #Mucking about with ... (what)
+                    <time>[14/04/2017 ~23:30]</time>
+                </code>
+			</p>
+        </p>
+		<p>
+			vervolgens de html maakt, dan gaat de css er nog steeds toepassing op hebben, zolang het onder die div zit.
+		</p>
+        <p>
+			<p>
+                <code>
+                &lt;h2&gt;05|&lt;/h2&gt;
+                &lt;h1&gt;Mucking about with ... (what)&lt;/h1&gt;
+                &lt;time&gt;[14/04/2017 ~23:30]&lt;/time&gt;
+                </code>
+			</p>
+		</p>
+		<p>
+			Maar dan moet ik deze tekst vanonder uit de benodigde div-met-class halen want anders heeft deze shizzle geen mark-up voorbij markdown.
+		</p>
+		<p>
+			Nop nop nope, slapen.
+		</p>
+</div>

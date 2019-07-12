@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-97378887-1', 'auto');
+      ga('send', 'pageview');
+    </script>
+    <link href="https://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>BRACKETS: Profile</title>
+    <meta name="description" content="BRACKETS: Profile">
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <nav>
+        <li><a href="index.html">HOME</a></li>
+        <li><a href="profile.html" class="currentlink">PROFILE</a></li>
+        <li><a href="devlog.html">DEV LOG</a></li>
+        <li><a href="contact.html">CONTACT</a></li>
+    </nav>
+<!--    <div class="header">
+        <p>GET TO KNOW ME</p>
+    </div>-->
+    <br>
+    <div class="bodytext">
+        <div class="sidebar">    
+            <ul><div class="profielfoto">
+                <img src="../images/ikke.png" alt="Portretfoto" />
+            </div>
+            <div class="profiellijstje">
+                <h3>lorem</h3>
+                <h4>ipsum</h4>
+                <li>zever gezever</li>
+                <li>zever gezever</li>
+                <li>zever gezever</li>
+                <h4>ipsum</h4>
+                <li>zever gezever</li>
+                <li>zever gezever</li>
+            </div></ul>
+        </div>
+        <p>
+            Zever gezever
+        </p>
+        <p>
+            Laboris quis appellat de quibusdam quis e incurreret coniunctione, ullamco coniunctione ab cupidatat, aut enim tamen eram appellat. Irure te se ipsum deserunt, ex malis incididunt consequat est ab se arbitrantur sed se multos offendit appellat hic aut dolore varias ab possumus id cernantur ipsum legam et fore, culpa eiusmod hic duis cillum, occaecat varias aute offendit tamen. 
+        </p>
+
+        <p>
+            Lorem ipsum la die da.
+            Laboris quis appellat de quibusdam quis e incurreret coniunctione, ullamco coniunctione ab cupidatat, aut enim tamen eram appellat. Irure te se ipsum deserunt, ex malis incididunt consequat est ab se arbitrantur sed se multos offendit appellat hic aut dolore varias ab possumus id cernantur ipsum legam et fore, culpa eiusmod hic duis cillum, occaecat varias aute offendit tamen. 
+        </p>
+        <p>
+            Ullamco varias ingeniis. Quis cupidatat ubi quem cillum, doctrina ex nescius, sed duis velit ubi voluptate id ullamco esse fabulas, aliquip ne aute, an velit eruditionem et si se aute appellat ut fore mandaremus aut cupidatat.
+            Varias tempor ullamco.
+            Duis pariatur a commodo. Nulla nescius offendit do doctrina tamen legam quibusdam sint.
+            Veniam exquisitaque laboris irure cupidatat, de id labore occaecat in eu quid exercitation, ex proident qui mentitum.
+        </p>
+    </div>
+</body>
+</html>
